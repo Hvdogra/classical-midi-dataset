@@ -1,0 +1,1 @@
+#classical g64 g60 wait3 endg64 endg60 wait1 g64 g57 g60 wait3 endg64 endg57 endg60 wait1 g57 g52 g64 g45 g60 wait3 endg60 endg64 endg57 endg52 endg45 wait1 g69 g53 wait3 endg53 endg69 wait1 g52 g67 wait3 endg67 endg52 wait1 g65 g50 wait3 endg65 endg50 wait1 g52 g64 g55 g60 g48 wait3 endg64 endg55 endg60 wait1 g64 g55 g60 wait3 endg60 endg64 endg55 endg52 endg48  

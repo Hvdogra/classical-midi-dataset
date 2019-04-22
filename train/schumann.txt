@@ -1,0 +1,1 @@
+#classical wait5 p55 p59 p71 wait2 endp55 endp59 wait1 endp62 endp71 p62 wait2 p67 wait1 endp67 wait1 p58 endp58 p49 p79 endp49 wait1 endp64 p64 wait2 p67 endp79 wait1 endp67 wait1 p78 wait1 p50 p57 wait1 endp50 endp57 wait1 p62 wait2 endp78 p66 p76 endp76 endp66 wait1 endp62 wait1 p60 p54 wait1 endp54 endp60  
